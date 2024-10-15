@@ -1,3 +1,4 @@
 # cfprog-dev.github.io
-//My first repository
-//Repo for University
+## Introduction
+This is my **FIRST** repository
+It will be mainly used for University
